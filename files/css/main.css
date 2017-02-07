@@ -1,0 +1,114 @@
+* {
+	margin:0px;
+	padding: 0px;
+	border: 0px;
+}
+body {
+	background-color: #995986;
+}
+a {
+	text-decoration: none;
+}
+.nav li {
+	font-family: 'arizoniaregular';
+	font-size: 24px;
+}
+.nav li:hover {
+	font-family: 'quicksandregular';
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+
+}
+
+
+p {
+	
+	font-family: 'quicksandregular';
+
+}
+
+
+#main_body {
+	width:1000px;
+	margin: auto;
+	text-align: left;
+	background-color: #edd9b4;
+	color:#361404;
+	position: relative;
+}
+
+#logo {
+	font-family: 'arizoniaregular';
+	font-size: 24px;
+	width:200px;
+	height: 200px;
+	text-align: center;
+	/*font-family: 'harabarahanditalic';*/
+}
+#logo2 {
+	/*background-color: #D8E8A6;*/
+	width:200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #70bab3;
+}
+#logo_image {
+	position: absolute;
+	top:0px;
+	left: 5px;
+}
+
+#nav_bar {
+	background-color: #70bab3;
+	width: 800px;
+	vertical-align:middle;
+
+}
+#nav_bar a {
+	color: white;
+}
+#top_links li {
+	display: inline-block;
+	list-style: none;
+	padding: 20px;
+	/*height: 20px;*/
+	vertical-align: middle;
+	color: white;
+}
+
+#main_section {
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+}
+
+#main_section p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer {
+	text-align: center;
+	background-color: #0e5b5e;
+	padding-bottom: 10px;
+}
+
+footer li {
+	color:black;
+	display: inline-block;
+	list-style: none;
+	padding: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+footer a {
+	color:black;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'desyrelregular';
+}
+

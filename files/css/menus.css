@@ -1,0 +1,15 @@
+#menu_list li
+{
+	
+	font-family: 'desyrelregular';
+	font-size: 20px;
+	padding-bottom: 10px;
+	list-style: none;
+}
+#menu_list li:hover{
+	font-family: 'arizoniaregular';
+}
+
+#menu_list a{
+	color:#361404;
+}

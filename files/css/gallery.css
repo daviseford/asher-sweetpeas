@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#gallery td{
+	width: 300px;
+	text-align: center;
+}
+#gallery tr{
+	height: 300px;
+}
+
+#gallery img{
+	border-style: solid;
+	border-color: #B7B7B7;
+	border-width: 25px 25px 50px;
+	width: 200px;
+	height: 200px;
+	transition: all 0.2s ease-in-out;
+}
